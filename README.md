@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vrozax](https://github.com/Vrozax)
+- 👨‍💻 All of my projects are available at [https://github.com/akowynia](https://github.com/akowynia)
 - Please visit my LinkedIn [profile](https://www.linkedin.com/in/artur-kowynia/) :+1:
 -  <img src="https://github.com/wallentx/slack-custom-emoji-list/raw/main/custom_emoji/baby_yoda.png" width="30">May the code be with you.<img src="https://github.com/wallentx/slack-custom-emoji-list/raw/main/custom_emoji/baby_yoda.png" width="30">
 
