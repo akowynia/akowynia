@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm akowynia</h1>
 <div align="center">
-<p>
+<p> 
 <img src="https://github.com/wallentx/slack-custom-emoji-list/raw/main/custom_emoji/baby_yoda.png" width="25" align="center">
 <i>May the code be with you.</i>
 <img src="https://github.com/wallentx/slack-custom-emoji-list/raw/main/custom_emoji/baby_yoda.png" width="25" align="center">
