@@ -25,9 +25,9 @@
 
 | Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :---: |
-| **Private RAG (PDF)** | A local application that allows you to "talk" to your own PDF files using language models run by Ollama and the Qdrant vector database. Features a graphical UI. | Python, LangChain, Ollama, Qdrant, Gradio | [Repo](https://github.com/akowynia/private-rag-pdf) |
-| **IT Jobs Discord Bot** | Discord bot that scrapes popular portals (pracuj.pl, nofluffjobs, etc.) for IT internships and job offers. Sends Webhook notifications and generates aggregated reports in PDF. | Python, Discord.py, BeautifulSoup, Requests, ReportLab | [Repo](https://github.com/akowynia/it-jobs-discord-bot) |
-| **LinkedIn CV Matcher (AI)** | An extension to the Discord bot. Uses local LLM models (Ollama) to evaluate how well a LinkedIn profile (extracted from a screenshot) matches collected job offers. | Python, Ollama, LangChain, OpenCV | [Repo](https://github.com/akowynia/linkedin-cv-matcher-ai) |
+| **Private RAG (PDF)** | A local application that allows you to "talk" to your own PDF files using language models run by Ollama and the Qdrant vector database. Features a graphical UI. | Python, LangChain, Ollama, Qdrant, Gradio | [Repo](https://github.com/akowynia/rag_pdf_projekt) |
+| **IT Jobs Discord Bot** | Discord bot that scrapes popular portals (pracuj.pl, nofluffjobs, etc.) for IT internships and job offers. Sends Webhook notifications and generates aggregated reports in PDF. | Python, Discord.py, BeautifulSoup, Requests, ReportLab | [Repo](https://github.com/akowynia/Jobs-alert-discord-IT) |
+| **LinkedIn CV Matcher (AI)** | An extension to the Discord bot. Uses local LLM models (Ollama) to evaluate how well a LinkedIn profile (extracted from a screenshot) matches collected job offers. | Python, Ollama, LangChain, OpenCV | [Repo](https://github.com/akowynia/jobs_link_profile_li_analyze) |
 
 <br>
 
@@ -42,9 +42,9 @@
 
 | Projekt | Opis | Technologie | Linki |
 | :--- | :--- | :--- | :---: |
-| **Prywatny RAG (PDF)** | Lokalna aplikacja pozwalająca na "rozmowę" z własnymi plikami PDF za pomocą modeli językowych uruchamianych przez Ollama oraz wektorowej bazy danych Qdrant. Posiada graficzny interfejs. | Python, LangChain, Ollama, Qdrant, Gradio | [Repo](https://github.com/akowynia/private-rag-pdf) |
-| **IT Jobs Discord Bot** | Bot na Discorda scrapujący popularne portale (pracuj.pl, nofluffjobs itp.) w poszukiwaniu staży i ofert pracy IT. Wysyła powiadomienia przez Webhooki i generuje zbiorcze raporty w PDF. | Python, Discord.py, BeautifulSoup, Requests, ReportLab | [Repo](https://github.com/akowynia/it-jobs-discord-bot) |
-| **LinkedIn CV Matcher (AI)** | Rozszerzenie bota Discord. Wykorzystuje lokalne modele LLM (Ollama) do oceny dopasowania profilu LinkedIn (wyciągniętego ze zrzutu ekranu) do zebranych ofert pracy. | Python, Ollama, LangChain, OpenCV | [Repo](https://github.com/akowynia/linkedin-cv-matcher-ai) |
+| **Prywatny RAG (PDF)** | Lokalna aplikacja pozwalająca na "rozmowę" z własnymi plikami PDF za pomocą modeli językowych uruchamianych przez Ollama oraz wektorowej bazy danych Qdrant. Posiada graficzny interfejs. | Python, LangChain, Ollama, Qdrant, Gradio | [Repo](https://github.com/akowynia/rag_pdf_projekt) |
+| **IT Jobs Discord Bot** | Bot na Discorda scrapujący popularne portale (pracuj.pl, nofluffjobs itp.) w poszukiwaniu staży i ofert pracy IT. Wysyła powiadomienia przez Webhooki i generuje zbiorcze raporty w PDF. | Python, Discord.py, BeautifulSoup, Requests, ReportLab | [Repo](https://github.com/akowynia/Jobs-alert-discord-IT) |
+| **LinkedIn CV Matcher (AI)** | Rozszerzenie bota Discord. Wykorzystuje lokalne modele LLM (Ollama) do oceny dopasowania profilu LinkedIn (wyciągniętego ze zrzutu ekranu) do zebranych ofert pracy. | Python, Ollama, LangChain, OpenCV | [Repo](https://github.com/akowynia/jobs_link_profile_li_analyze) |
 
 <br>
 
